@@ -1,7 +1,7 @@
 streamlit==1.36.0
 
 google-generativeai==0.5.4
-google-ai-generativelanguage==0.6.15
+google-ai-generativelanguage==0.6.4
 
 langchain==0.2.12
 langchain-core==0.2.27
@@ -16,3 +16,4 @@ pypdf
 gtts
 SpeechRecognition
 pydub
+
